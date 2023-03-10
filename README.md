@@ -13,8 +13,7 @@ This application will allow users to view, add, and edit employees, roles, depar
 ## License 
 This project is license under MIT
 
-## Contributing 
-Contributors should read the installation section. 
+## Video demo
 
 ## Tests
 There are no tests for this application. 
